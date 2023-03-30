@@ -3,7 +3,10 @@
     "ignorePaths": [],
     "dictionaryDefinitions": [],
     "dictionaries": [],
-    "words": [],
+    "words": [
+        "Disboard",
+        "Evironment"
+    ],
     "ignoreWords": [
         "Metiew",
         "Nowak",
