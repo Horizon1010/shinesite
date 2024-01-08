@@ -24,7 +24,7 @@ __The Shine Team:__
 ## Acknowledgements
 
  - [Vote for us on Top.gg](https://top.gg/servers/1068262042802323496)
- - [The Website Link](https://Horizon1010.github.io/Shine.github.io)
+ - [The Website Link](https://www.shinesite.vercel.app)
  - [Bump us at Disboard](https://disboard.org/de/server/1068262042802323496)
 ## Badges
 ![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=Shine%20Website&logo=googlechrome&logoColor=white&style=flat-square&up_color=green&up_message=online&url=https%3A%2F%2Fhorizon1010.github.io%2Fshine.github.io%2F)
